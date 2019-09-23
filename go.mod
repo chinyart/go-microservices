@@ -1,4 +1,4 @@
-module http: //github.com/chinyart/go-microservices.git
+module my-go-microservices
 
 go 1.13
 
